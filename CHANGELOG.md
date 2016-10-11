@@ -2,6 +2,10 @@
 
 ### [Check compatibility with Neard](https://github.com/crazy-max/neard/wiki/toolPHPUnit#latest) before downloading.
 
+## r4 (2016/10/11)
+
+* New bundles : 4.8.27, 5.4.8, 5.5.7, 5.6.1
+
 ## r3 (2016/06/20)
 
 * New bundles : 4.8.26, 5.3.5, 5.4.6
