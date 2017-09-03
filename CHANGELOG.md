@@ -1,17 +1,21 @@
 # Changelog
 
+## r5 (2017/09/03)
+
+* New releases : 4.8.36, 5.7.21, 6.3.0 (Issue crazy-max/neard#325)
+
 ## r4 (2016/10/11)
 
-* New bundles : 4.8.27, 5.4.8, 5.5.7, 5.6.1
+* New releases : 4.8.27, 5.4.8, 5.5.7, 5.6.1 (Issue crazy-max/neard#121)
 
 ## r3 (2016/06/20)
 
-* New bundles : 4.8.26, 5.3.5, 5.4.6
+* New releases : 4.8.26, 5.3.5, 5.4.6 (Issue crazy-max/neard#121)
 
 ## r2 (2016/05/12)
 
-* New bundles : 4.8.25, 5.3.4
+* New releases : 4.8.25, 5.3.4 (Issue crazy-max/neard#121)
 
 ## r1 (2016/04/23)
 
-* Add bundles : 4.8.24, 5.3.2
+* Add releases : 4.8.24, 5.3.2
