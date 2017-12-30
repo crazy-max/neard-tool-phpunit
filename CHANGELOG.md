@@ -1,5 +1,9 @@
 # Changelog
 
+## r6 (2017/12/30)
+
+* New releases : 5.6.8, 5.7.26, 6.5.5 (Issue neard/neard#355)
+
 ## r5 (2017/09/03)
 
 * New releases : 4.8.36, 5.7.21, 6.3.0 (Issue neard/neard#325)
